@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../android_apps-indigo.iml" filepath="$PROJECT_DIR$/../android_apps-indigo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../make_a_map/make_a_map.iml" filepath="$PROJECT_DIR$/../make_a_map/make_a_map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../map_manager/map_manager.iml" filepath="$PROJECT_DIR$/../map_manager/map_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../map_nav/map_nav.iml" filepath="$PROJECT_DIR$/../map_nav/map_nav.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teleop.iml" filepath="$PROJECT_DIR$/teleop.iml" />
+    </modules>
+  </component>
+</project>

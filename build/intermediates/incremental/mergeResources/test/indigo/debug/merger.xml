@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\android_apps-indigo\teleop\src\androidTest\res"/><source path="E:\android_apps-indigo\teleop\build\generated\res\rs\test\indigo\debug"/><source path="E:\android_apps-indigo\teleop\build\generated\res\generated\test\indigo\debug"/></dataSet><dataSet config="androidTestIndigo"><source path="E:\android_apps-indigo\teleop\src\androidTestIndigo\res"/></dataSet><mergedItems/></merger>

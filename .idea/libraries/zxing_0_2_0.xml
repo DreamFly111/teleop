@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="zxing-0.2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../map_nav/build/intermediates/exploded-aar/com.github.rosjava.android_extras/zxing/0.2.0/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../map_nav/build/intermediates/exploded-aar/com.github.rosjava.android_extras/zxing/0.2.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="roscpp-1.11.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ros.rosjava_messages/roscpp/1.11.10/4bc9c9e0dc4d907d296cace48b1845a4770aa9cd/roscpp-1.11.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
